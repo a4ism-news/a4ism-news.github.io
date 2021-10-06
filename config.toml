@@ -1,0 +1,4 @@
+baseURL = "https://a4ism.news/"
+languageCode = "en-us"
+title = "a4ism.news - modern news site"
+theme = "academic"
