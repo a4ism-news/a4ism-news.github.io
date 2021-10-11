@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>a4ism.news - modern news site</title>
+    <title>a4ism.news</title>
     <link>https://a4ism.news/</link>
-    <description>Recent content on a4ism.news - modern news site</description>
+    <description>Recent content on a4ism.news</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 07 Oct 2021 08:48:23 +1100</lastBuildDate><atom:link href="https://a4ism.news/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-AU</language>
+    <copyright>© 2021, Real News Distributions (RND)</copyright>
+    <lastBuildDate>Mon, 11 Oct 2021 00:00:00 +1100</lastBuildDate><atom:link href="https://a4ism.news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://a4ism.news/about/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://a4ism.news/about/</guid>
+      <description>Back to back for the jigga$ that didn&amp;rsquo;t get the message
+Back to back, like I&amp;rsquo;m on the cover of Lethal Weapon
+Back to back, like I&amp;rsquo;m Jordan &amp;lsquo;96, &amp;lsquo;97</description>
+    </item>
+    
     <item>
       <title>First Post</title>
-      <link>https://a4ism.news/posts/first-post/</link>
-      <pubDate>Thu, 07 Oct 2021 08:48:23 +1100</pubDate>
+      <link>https://a4ism.news/post/first-post/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +1100</pubDate>
       
-      <guid>https://a4ism.news/posts/first-post/</guid>
+      <guid>https://a4ism.news/post/first-post/</guid>
       <description>Hello, World! :)
 testing testing 123</description>
     </item>
