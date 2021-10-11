@@ -1,4 +1,17 @@
 baseURL = "https://a4ism.news/"
 languageCode = "en-us"
 title = "a4ism.news - modern news site"
-theme = "academic"
+theme = "origin"
+
+[params]
+  author = "Hello, World"
+  description = "this is a test description!"
+  [params.footer]
+    text = "Built with Hugo and the 'Origin' theme"
+    url = "https://github.com/a4ism-news/a4ism-news.github.io"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    max = ''
+    min = ''

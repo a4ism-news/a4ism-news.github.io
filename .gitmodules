@@ -1,3 +1,12 @@
 [submodule "themes/academic"]
 	path = themes/academic
 	url = https://github.com/sourcethemes/academic-kickstart.git
+[submodule "themes/wowchemy"]
+	path = themes/wowchemy
+	url = https://github.com/wowchemy/wowchemy-hugo-modules
+[submodule "themes/cupper-hugo-theme"]
+	path = themes/cupper-hugo-theme
+	url = https://github.com/zwbetz-gh/cupper-hugo-theme.git
+[submodule "themes/origin"]
+	path = themes/origin
+	url = https://gitlab.com/asleeppiano/origin-hugo-theme.git
