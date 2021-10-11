@@ -1,17 +1,54 @@
 baseURL = "https://a4ism.news/"
-languageCode = "en-us"
-title = "a4ism.news - modern news site"
+title = "a4ism.news"
+author = "RND"
+copyright = "© 2021, Real News Distributions (RND)"
+paginate = 4
+languageCode = "en-AU"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
 theme = "origin"
 
 [params]
-  author = "Hello, World"
-  description = "this is a test description!"
-  [params.footer]
-    text = "Built with Hugo and the 'Origin' theme"
-    url = "https://github.com/a4ism-news/a4ism-news.github.io"
+  description = "just some real news 📰"
+  header_image = "images/a4ism.jpeg"
+  slogan = "$ grep -rni \"The how's and why's\" ."
+  SEOTitle = "Rich Youngkin Blog"
+  keyword = "Rich, Youngkin, Raspberry, Pi, Docker, Kubernetes, Go, Golang, Microservice"
+  featured = true
+  cssonly = false
 
-[module]
-  [module.hugoVersion]
-    extended = true
-    max = ''
-    min = ''
+  [params.socials]
+    email = "mailto:hello@a4ism.news"
+    facebook = ""
+    twitter = ""
+    instagram = ""
+    youtube = ""
+    github = "https://github.com/a4ism-news/"
+    gitlab = ""
+    linkedin = ""
+    slack = ""
+    stackoverflow = ""
+    medium= ""
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[markup]
+  [markup.highlight]
+    style = "github"
+    tabWidth = 4
+
+  [markup.goldmark.renderer]
+      unsafe = true
+
