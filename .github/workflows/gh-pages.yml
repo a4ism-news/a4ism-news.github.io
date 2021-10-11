@@ -1,4 +1,5 @@
 # https://gohugo.io/hosting-and-deployment/hosting-on-github/
+# https://www.mytechramblings.com/posts/create-a-website-with-hugo-and-gh/
 # https://github.com/parsiya/begbounty.com/blob/main/.github/workflows/gh-pages.yml
 name: github pages
 

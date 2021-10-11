@@ -13,8 +13,8 @@ theme = "origin"
   description = "just some real news 📰"
   header_image = "images/a4ism.jpeg"
   slogan = "$ grep -rni \"The how's and why's\" ."
-  SEOTitle = "Rich Youngkin Blog"
-  keyword = "Rich, Youngkin, Raspberry, Pi, Docker, Kubernetes, Go, Golang, Microservice"
+  SEOTitle = "a4ism.news - perspective on real news."
+  keyword = "real news, not fake news, back to back, rnd"
   featured = true
   cssonly = false
 
