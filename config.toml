@@ -1,7 +1,7 @@
 baseURL = "https://a4ism.news/"
 title = "a4ism.news"
 author = "RND"
-copyright = "© 2021, Real News Distributions (RND)"
+copyright = "Real News Distributions (RND) © 2021"
 paginate = 4
 languageCode = "en-AU"
 DefaultContentLanguage = "en"
@@ -9,12 +9,16 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 theme = "origin"
 
+[Author]
+    name = "RND"
+
 [params]
   description = "just some real news 📰"
+  DateForm = "02 Jan 2006"
   header_image = "images/a4ism.jpeg"
-  slogan = "$ grep -rni \"The how's and why's\" ."
-  SEOTitle = "a4ism.news - perspective on real news."
-  keyword = "real news, not fake news, back to back, rnd"
+  slogan = "a4ism.news - perspective(s) on real news."
+  SEOTitle = "a4ism.news - perspective(s) on real news."
+  keyword = "a4ism, a4ism.news, real news, not fake news, rnd, back to back"
   featured = true
   cssonly = false
 
@@ -34,10 +38,16 @@ theme = "origin"
 [menu]
 
   [[menu.main]]
+    identifier = "home"
+    name = "home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "about"
     url = "/about/"
-    weight = 10
+    weight = 2
 
 [taxonomies]
   category = "categories"

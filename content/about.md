@@ -1,7 +1,6 @@
 +++
 title = "About"
-description = "Perspective on real news"
-date = "2021-10-11"
+description = "Perspective(s) on real news"
 aliases = ["about-us","about-hugo","contact"]
 author = "Real News Distributions (RND)"
 +++

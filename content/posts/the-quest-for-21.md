@@ -1,14 +1,12 @@
 +++
 title = "The Quest for 21: The 'Big 3' of Men's Tennis"
-date = 2021-10-12
+date = 2021-10-14
 draft = false
-description = "another great post on a4ism.news"
-tags = [
-    "tennis",
-]
+description = "🎾"
+tags = [ "tennis", ]
 +++
 
-###### By Denis Kucukovic 
+### by Denis Kucukovic
 
 Despite the numerous records set by the ‘Big 3,’ the topic of who is the ‘Greatest Of All Time’ (GOAT) is still quite a contentious one. Roger Federer, Rafael Nadal, and Novak Djokovic have all cemented themselves as the three most celebrated and decorated tennis players in the history of the men’s game. Having all reached the almost inconceivable pinnacle of Grand Slam (formally referred to as ‘majors’) tennis with 20 singles trophies each, the search for who is the greatest among them continues into 2022. This is not to say however, that grand slams are the only indicators of who would be considered the GOAT in collectives minds of tennis fans the world over, as popularity plays perhaps the largest role in the almost benign title. 
 
